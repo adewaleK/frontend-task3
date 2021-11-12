@@ -43,6 +43,7 @@
 .rev p{
     font-weight: bold;
     color: #512051;
+    text-align: center;
 }
 
 .reviews .r-2{
@@ -139,7 +140,7 @@
         display: grid;
         grid-template-columns: auto;
         margin-left: 0;
-        width: 65%;
+        width: 66%;
         
     }
      
