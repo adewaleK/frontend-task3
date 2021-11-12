@@ -132,12 +132,15 @@
 
     .reviews{
         margin-top: 20px;
+        width: 100%;
     }
 
     .reviews .rev{
         display: grid;
         grid-template-columns: auto;
         margin-left: 0;
+        width: 65%;
+        
     }
      
     .stars-img{
